@@ -27,9 +27,9 @@ A passionate tech enthusiast, builder, and self-learner who’s always exploring
 ## 🔍 Exploring
 
 Currently diving deeper into:
+- 🧱 Full Stack Web & Mobile
 - 🧠 Neural Networks
 - 🌐 IoT Development
-- 🧱 Full Stack Web & Mobile
 - 📡 Networking Systems
 
 Still learning every day. Always building, always improving.
