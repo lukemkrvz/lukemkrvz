@@ -43,8 +43,3 @@ Still learning every day. Always building, always improving.
 - 📧 Email: [lukemkrvz@gmail.com](mailto:lukemkrvz@gmail.com)  
 - 🌐 Website: [lukemkrvz.netlify.app](https://lukemkrvz.netlify.app)
 
----
-
-## ⚡ Fun Fact
-
-> Aku tak tunggu perfect baru start — aku start dulu, improve kemudian.
