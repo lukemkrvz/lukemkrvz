@@ -1,22 +1,18 @@
-> profile: lukemkrvz
-> role   : tech enthusiast / builder / self-learner
-> motto  : turning ideas into products
+hey, i'm lukemkrvz.
 
+i like building things with code.  
+always learning, always exploring.  
 
-> tech stack
-| html     | tailwindcss | php     |
-| flutter  | node.js     | express |
-| python   | mysql       | postgresql |
-| vscode   | postman     | figma   |
+tech i use:  
+html, tailwind, php, flutter  
+node.js, express, python  
+mysql, postgresql  
+vscode, postman, figma  
 
+currently into:  
+full stack web & mobile  
+neural networks, iot, networking  
 
-> exploring
-| full stack web & mobile |
-| neural networks         |
-| iot development         |
-| networking systems       |
-
-
-> contact
-| email : lukemkrvz@gmail.com
-| site  : lukemkrvz.netlify.app
+say hi:  
+lukemkrvz@gmail.com  
+lukemkrvz.netlify.app
