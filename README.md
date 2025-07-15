@@ -1,33 +1,29 @@
-# Hi I'm Lukemkrvz
+> whoami
+lukemkrvz
 
-Tech enthusiast, builder, and self-learner. Turning ideas into reality, one project at a time.
+> profile --summary
+Tech enthusiast. Builder. Self-learner. 
+Converting ideas to code. 
+Status: Online, always iterating.
 
----
+> skills --list
+[+] Languages & Frameworks:
+    HTML5, TailwindCSS, PHP, Flutter, Node.js, Express.js, Python
 
-## Tech Stack
+[+] Databases & Tools:
+    MySQL, PostgreSQL, VS Code, Postman, Figma
 
-**Languages & Frameworks**  
-HTML5 · TailwindCSS · PHP · Flutter · Node.js · Express.js · Python  
+> current_processes
+- Full Stack Web & Mobile
+- Neural Networks
+- IoT Development
+- Networking Systems
+[INFO] Continuous learning mode: Active
 
-**Databases & Tools**  
-MySQL · PostgreSQL · VS Code · Postman · Figma  
+> contact --details
+- Email: lukemkrvz@gmail.com
+- Website: lukemkrvz.netlify.app
+[OPEN] Accepting collabs and freelance missions.
 
----
-
-## Exploring
-
-- Full Stack Web & Mobile  
-- Neural Networks  
-- IoT Development  
-- Networking Systems  
-
-Always learning, always building.
-
----
-
-## Connect
-
-- Email: [lukemkrvz@gmail.com](mailto:lukemkrvz@gmail.com)  
-- Website: [lukemkrvz.netlify.app](https://lukemkrvz.netlify.app)  
-
-*Open to collaborations and freelance work.*
+> exit
+Happy coding ..
