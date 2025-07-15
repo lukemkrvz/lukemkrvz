@@ -1,25 +1,23 @@
-Lukemkrvz 👨‍💻
-A tech enthusiast and builder, transforming ideas into reality through code and creativity.
+👋 Lukemkrvz
+Tech enthusiast & self-taught builder turning ideas into slick products.
 
 🛠️ Tech Stack
-Languages & Frameworks|  |  |  ||  |  |  ||  |
-Databases & Tools|  |  ||  |  |  |
+Languages & FrameworksHTML5 TailwindCSS PHP Flutter Node.js Express.js Python
+ToolsMySQL PostgreSQL VS Code Postman Figma
 
-🔮 Current Focus
-Exploring the cutting edge of technology:  
+🌌 Exploring
 
-🌐 Full Stack Web & Mobile: Building seamless, scalable applications.  
-🧠 Neural Networks: Diving into the world of AI and machine learning.  
-📡 IoT Development: Connecting devices for smarter solutions.  
-🌐 Networking Systems: Mastering the art of connectivity.
+Full Stack Web & Mobile  
+Neural Networks  
+IoT Development  
+Networking Systems
 
-Constantly learning, iterating, and pushing boundaries.
+Always learning, always building.
 
-📩 Connect
-Open to collaborations, freelance projects, or a quick chat:  
+📡 Connect
 
-✉️ Email: lukemkrvz@gmail.com  
-🌐 Website: lukemkrvz.netlify.app
+Email: lukemkrvz@gmail.com  
+Website: lukemkrvz.netlify.app
 
 
-Built with ☕ and curiosity in the heart of tech.
+Code. Create. Evolve.
