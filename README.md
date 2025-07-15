@@ -1,18 +1,29 @@
-hey, i'm lukemkrvz.
+| | | | | |
+| | | | _____ ___ | | ___ _ __ ___
+| | | |/ _ \ \ /\ / / '| |/ _ | '_ ` _ \
+| |____ | | () \ V V /| | | | () | | | | | |
+_/ ||_/ _/_/ || ||___/|| || ||
 
-i like building things with code.  
-always learning, always exploring.  
+lukemkrvz — tech & code_
 
-tech i use:  
-html, tailwind, php, flutter  
-node.js, express, python  
-mysql, postgresql  
-vscode, postman, figma  
+$ stack
+html / tailwind / php / flutter
+node.js / express / python
+mysql / postgresql
 
-currently into:  
-full stack web & mobile  
-neural networks, iot, networking  
+$ tools
+vscode / postman / figma
 
-say hi:  
-lukemkrvz@gmail.com  
-lukemkrvz.netlify.app
+$ learning
+full stack / neural nets / iot / networking
+
+$ contact
+lukemkrvz@gmail.com
+https://lukemkrvz.netlify.app
+
+kotlin
+Copy
+Edit
+
+----------------------------------------
+⛓ stay curious. break stuff. build better.
