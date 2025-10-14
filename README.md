@@ -32,4 +32,4 @@ Building something cool? Need a collaborator? Just want to chat tech?
 
 ---
 
-*Still learning, still growing, still building.* 🚀
+
