@@ -10,7 +10,8 @@ I turn ideas into reality through code. Always exploring, always building.
 
 **Languages:** JavaScript, Dart  
 **Frameworks:** Flutter, Express  
-**Databases:** MySQL, PostgreSQL
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Git, Postman, Insomnia
 
 ---
 
