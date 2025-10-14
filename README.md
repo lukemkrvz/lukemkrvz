@@ -1,45 +1,34 @@
-<div align="center">
+# Hey there, I'm Lukemkrvz 👋
 
-# Lukemkrvz
+**Tech enthusiast • Builder • Lifelong learner**
 
-**Building digital experiences that matter**
-
-```
-Tech Enthusiast  ×  Developer  ×  Deployer
-```
-
-</div>
+I turn ideas into reality through code. Always exploring, always building.
 
 ---
 
-### Currently crafting with
+## 🛠️ Tech Stack
 
-```javascript
-const stack = {
-    languages: ['JavaScript', 'Dart'],
-    frameworks: ['Flutter', 'Express'],
-    databases: ['MySQL', 'PostgreSQL']
-}
-```
-
-### Focus areas
-
-```
-◆ Full Stack Development
-◆ Application Deployment
-◆ Building & Shipping Products
-```
+**Languages:** JavaScript, Dart  
+**Frameworks:** Flutter, Express  
+**Databases:** MySQL, PostgreSQL
 
 ---
 
-<div align="center">
+## 🌱 Currently Learning
 
-**Let's build something together**
+- 🧱 Full Stack Development (Web & Mobile)
+- 🚀 Deployment & DevOps
+- 📦 Building & Shipping Products
 
-[lukemkrvz@gmail.com](mailto:lukemkrvz@gmail.com) • [lukemkrvz.netlify.app](https://lukemkrvz.netlify.app)
+---
 
-</div>
+## 📫 Let's Connect
 
-<div align="center">
-<sub>Always learning. Always building. Always shipping.</sub>
-</div>
+Building something cool? Need a collaborator? Just want to chat tech?
+
+**Email:** lukemkrvz@gmail.com  
+**Website:** [lukemkrvz.netlify.app](https://lukemkrvz.netlify.app)
+
+---
+
+*Still learning, still growing, still building.* 🚀
