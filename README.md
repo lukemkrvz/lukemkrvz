@@ -19,7 +19,7 @@ I turn ideas into reality through code. Always exploring, always building.
 
 - 🧱 Full Stack Development (Web & Mobile)
 - 🚀 Deployment & DevOps
-- 📦 Building & Shipping Products
+- 📦 Networking & Server
 
 ---
 
