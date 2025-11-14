@@ -28,7 +28,7 @@ I turn ideas into reality through code. Always exploring, always building.
 Building something cool? Need a collaborator? Just want to chat tech?
 
 **Email:** lukemkrvz@gmail.com  
-**Website:** [lukemkrvz.netlify.app](https://lukemkrvz.jaritekno.my.id/)
+**Website:** [lukemkrvz.jaritekno.my.id](https://lukemkrvz.jaritekno.my.id/)
 
 ---
 
